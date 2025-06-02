@@ -1,8 +1,8 @@
-[[[
+
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)]
 <h1 align="center">Hi 👋, I'm Suresh biswal</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
-</img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw3ArFGyZ-L0KQ0-nSm-t6f2&ust=1748934763551000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjuje-X0o0DFQAAAAAdAAAAABAL"/>
+</img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh-git02&label=Profile%20views&color=0e75b6&style=flat" alt="suresh-git02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh-git02&show_icons=true&locale=en" alt="suresh-git02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh-git02&" alt="suresh-git02" /></p>
-](https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA)](https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA)](https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA)
