@@ -2,7 +2,7 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)]
 <h1 align="center">Hi 👋, I'm Suresh biswal</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
-<img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkhatriroshan.com.np%2F&psig=AOvVaw031eFZO62eLX-8jwsOedm9&ust=1748934377621000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjsnrWW0o0DFQAAAAAdAAAAABAn"/>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw3ArFGyZ-L0KQ0-nSm-t6f2&ust=1748934763551000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjuje-X0o0DFQAAAAAdAAAAABAL"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh-git02&label=Profile%20views&color=0e75b6&style=flat" alt="suresh-git02" /> </p>
 
