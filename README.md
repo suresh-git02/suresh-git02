@@ -2,7 +2,7 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)]
 <h1 align="center">Hi 👋, I'm Suresh biswal</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
-</img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA"/>
+</img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh-git02&label=Profile%20views&color=0e75b6&style=flat" alt="suresh-git02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
